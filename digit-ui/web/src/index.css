@@ -1,0 +1,16 @@
+
+.citizen .home-link a {
+    color:#03506f;
+    font-weight: 400;
+   
+}
+.citizen .main{
+    background-color:#ffe3d8;
+    
+}
+.citizen .body-container {
+    background-color:#ffe3d8;
+}
+.citizen .submit-bar {
+    border-radius: 5px;
+}
